@@ -8,7 +8,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
-h1 h2 h3 h4{
+h2{
+    color:darkturquoise;
+}
+h1  h3 h4{
     color: #444;
 }
 h1{
@@ -83,7 +86,7 @@ header nav ul li a{
 
 #main-image{
     height: 500px;
-    background: url('images/main2.jpg') center;
+    background: url('images/belle-image.jpg') center;
 
 }
 #main-image h2{
